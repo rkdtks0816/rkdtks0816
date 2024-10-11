@@ -2,7 +2,9 @@
 
 ## 🏄‍♂️ 빠져드는 개발자
 문제 해결에 깊이 몰입하고, 더 나은 솔루션을 찾기 위해 끊임없이 탐구하는 개발자입니다. 
+<br />
 사용자 경험을 최우선으로 생각하며, 기술을 유익하고 편리하게 설계하려고 노력합니다. 
+<br />
 팀원들과 협업하고 지식을 공유하는 데 있어서 적극적이고 능숙하게 소통합니다.
 ## 🪽 Tech Stacks
 
@@ -14,7 +16,7 @@
 
 > 🔠 Languages
 > 
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+>![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
