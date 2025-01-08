@@ -29,4 +29,4 @@
 ## 🧑‍💻 Contact me
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rkdtks0816@gmail.com)
-[![ssO_Ong](https://img.shields.io/badge/ssO_Ong-1FAB89?style=for-the-badge&logo=ssO_Ong&logoColor=white)](https://rkdtks0816.github.io/ssong-page/)
+[![ssO_Ong](https://img.shields.io/badge/ssO_Ong-1FAB89?style=for-the-badge&logo=ssO_Ong&logoColor=white)](https://ssong-page.vercel.app/)
